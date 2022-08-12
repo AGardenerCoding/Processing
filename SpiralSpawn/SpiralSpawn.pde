@@ -10,8 +10,8 @@
 import java.util.*;
 
 ArrayList<Circle> unbranchedCircles, 
-    allCircles, 
-    branchCircles;
+                  allCircles, 
+                  branchCircles;
 
 ArrayList<Spiral> spirals;
 

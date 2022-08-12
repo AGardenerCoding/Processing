@@ -1,8 +1,8 @@
 /*
- *	Circle.pde
+ *  Circle.pde
  *  ==========
  *
- *	6-2-18
+ *  6-2-18
  *
  */
 //=====================================================================================================================
@@ -15,10 +15,10 @@ class Circle
 	// arraylist, the childCircles arraylist is needed for creating new spirals in Spiral.show().
 	ArrayList<Circle> childCircles;
 
-    float cntrX,
-	      cntrY,
-		  diam,
-		  radius;
+    	float cntrX,
+	          cntrY,
+		      diam,
+		      radius;
 
 	// An index into the Spiral.rotAngles[] array indicating at what angle measurement the spiral begins to draw.
 	int startPosIndex;

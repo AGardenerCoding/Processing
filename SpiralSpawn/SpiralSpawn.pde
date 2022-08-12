@@ -259,7 +259,6 @@ public void keyPressed()
 {
 	noLoop();
 	exit();
-
 }
 
 // end keyPressed()
